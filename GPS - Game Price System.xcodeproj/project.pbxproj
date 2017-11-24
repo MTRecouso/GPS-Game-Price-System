@@ -12,6 +12,7 @@
 		3F4E839A1FC86EE600A486F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F4E83981FC86EE600A486F0 /* Main.storyboard */; };
 		3F4E839C1FC86EE600A486F0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F4E839B1FC86EE600A486F0 /* Assets.xcassets */; };
 		3F4E839F1FC86EE600A486F0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F4E839D1FC86EE600A486F0 /* LaunchScreen.storyboard */; };
+		3F4E83A71FC8884F00A486F0 /* OfertaDAO.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F4E83A61FC8884F00A486F0 /* OfertaDAO.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3F4E839B1FC86EE600A486F0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F4E839E1FC86EE600A486F0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F4E83A01FC86EE600A486F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F4E83A61FC8884F00A486F0 /* OfertaDAO.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OfertaDAO.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				3F4E83941FC86EE600A486F0 /* AppDelegate.swift */,
 				3F4E83961FC86EE600A486F0 /* ViewController.swift */,
+				3F4E83A61FC8884F00A486F0 /* OfertaDAO.swift */,
 				3F4E83981FC86EE600A486F0 /* Main.storyboard */,
 				3F4E839B1FC86EE600A486F0 /* Assets.xcassets */,
 				3F4E839D1FC86EE600A486F0 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				3F4E83971FC86EE600A486F0 /* ViewController.swift in Sources */,
 				3F4E83951FC86EE600A486F0 /* AppDelegate.swift in Sources */,
+				3F4E83A71FC8884F00A486F0 /* OfertaDAO.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
